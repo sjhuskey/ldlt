@@ -24,7 +24,9 @@ a.navbar-brand { margin-bottom: 0.75rem; margin-left: 1rem; }
 
 #main p:first-of-type { margin-top: 3rem; }
 
-#main p { width: 75%; }
+#main p, #info p { width: 75%; }
+
+#info { margin-bottom: 3rem; }
 
 footer { background-color: lightgrey; color: darkgrey; }
 

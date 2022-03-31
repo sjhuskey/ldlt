@@ -393,6 +393,8 @@ tei-lg tei-label { position: absolute; left: 4em; font-weight: bold; }
 
 tei-list { display: block; margin-top: 1em; margin-bottom: 1em; list-style-type: none; }
 
+#div.tei tei-div tei-list { display: block; margin-top: 1em; margin-bottom: 1em; list-style-type: none; width: 80%; }
+
 tei-item > tei-list { margin-top: 0; }
 
 tei-sourceDesc tei-list { list-style-type: none; }
